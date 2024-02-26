@@ -12,7 +12,7 @@ Compatible with OpenCart 3.x versions.
 Admin [Dashboard](https://3x.test.ocmod.space/a/admin/index.php?route=common/dashboard).
 
 ## License
-* Licensed under the [MIT License](https://raw.githubusercontent.com/ocmod-space/ocmod-dashboard-latest-orders/main/LICENSE.txt)
+Licensed under the [MIT License](https://raw.githubusercontent.com/ocmod-space/ocmod-dashboard-latest-orders/main/LICENSE.txt)
 
 ## Download
 * [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=45922)

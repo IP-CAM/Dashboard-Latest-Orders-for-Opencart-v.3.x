@@ -9,5 +9,5 @@ Compatible with OpenCart 3.x versions. [Read more...](./module)
 * [**Dashboard Latest Orders**](https://www.ocmod.space/dashboard-latest-orders) web page.
 
 ## License
-* Licensed under the [MIT License](https://raw.githubusercontent.com/ocmod-space/ocmod-dashboard-latest-orders/main/LICENSE.txt)
+Licensed under the [MIT License](https://raw.githubusercontent.com/ocmod-space/ocmod-dashboard-latest-orders/main/LICENSE.txt)
 
